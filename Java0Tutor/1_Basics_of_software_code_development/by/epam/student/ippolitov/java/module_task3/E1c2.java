@@ -7,7 +7,7 @@ public class E1c2 {
 		double b;
 		double h;
 		double x;
-		a = 3;
+		a = -3;
 		b = 5;
 		h = 0.2; // шаг
 
